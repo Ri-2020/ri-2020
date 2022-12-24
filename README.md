@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Rohit Gupta</h1>
-<h3 align="center">Hi there! My name is Rohit Gupta and I am a 3rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
+<h3 >Hi there! My name is Rohit Gupta and I am a 3rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
 
 I have completed internships in both web and app development, which have allowed me to gain valuable experience and knowledge in a variety of programming languages, including Dart, JavaScript, C++, and Python. I am particularly skilled in using Flutter for Android development and am constantly seeking out new challenges and opportunities to expand my knowledge and expertise in the field.</br>
 
