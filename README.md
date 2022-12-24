@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, this is Rohit Gupta</h1>
-<h3 align="center">A passionate Engineering student in 3 year of College. I love programming especially the frontend part.</h3>
+<h3 align="center">Hi there! My name is Rohit Gupta and I am a 3rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
+
+I have completed internships in both web and app development, which have allowed me to gain valuable experience and knowledge in a variety of programming languages, including Dart, JavaScript, C++, and Python. I am particularly skilled in using Flutter for Android development and am constantly seeking out new challenges and opportunities to expand my knowledge and expertise in the field.</br>
+
+In addition to my technical skills, I am also a highly motivated and driven individual who is dedicated to staying up-to-date with the latest trends and advancements in technology. I am always looking for ways to push myself to the next level and thrive in fast-paced, dynamic environments.</br>
+
+Overall, I am excited to continue learning and growing as a developer and am eager to contribute my skills and knowledge to a wide range of projects and challenges. So, I am always looking for new opportunities to work on and learn from.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ri-2020&label=Profile%20views&color=0e75b6&style=flat" alt="ri-2020" /> </p>
 
