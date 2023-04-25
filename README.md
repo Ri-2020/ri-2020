@@ -2,7 +2,6 @@
 <h4 style="fontsize:10px">Hi there! My name is Rohit Gupta and I am a 3rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ri-2020&label=Profile%20views&color=0e75b6&style=flat" alt="ri-2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ri-2020" alt="ri-2020" /></a> </p>
 
