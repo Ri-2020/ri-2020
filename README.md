@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ri-2020" alt="ri-2020" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 💬 Ask me about **Flutter ,HTML, CSS, JS, React, C++**
 
