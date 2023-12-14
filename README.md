@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Rohit Gupta</h1>
-<h4 style="fontsize:10px">Hi there! My name is Rohit Gupta and I am a 3rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
+<h4 style="fontsize:10px">Hi there! My name is Rohit Gupta and I am a 4rd-year Btech student at the Rajkiya Engineering College Azamgarh and a Diploma in programming student with a BS in data science and programming degree from the Indian Institute of Technology Madras. I am extremely passionate about technology and have been fortunate enough to work on both Android development and full-stack web development during my time at college.</br>
 </h4>
 
 
